@@ -1,6 +1,6 @@
 ---
 
-## 🎥 My Name in Lights!  
+## 🎥 My Name 
 <div align="center">
   <img src="https://media.giphy.com/media/f9Rfp3S5r5rV4DsJQL/giphy.gif" width="500" height="200" alt="Abdallah Saqr Animation" />
 </div>  
