@@ -1,14 +1,10 @@
----
-
 ## 🎥 My Name Abdullah Mohammed Saqr
+
 <div align="center">
-  <iframe src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="269"
- style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-<a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>
-</div>  
+  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="480" height="269" alt="Animated GIF">
+</div>
 
 ✨ *"I bring this energy to all my game projects!"*
-
 ---
 💻 I’m **Abdallah Saqr**, a **Senior Game Developer** specializing in **3D** and **2D games** using powerful game engines like **Unity** and **Unreal Engine**.  
 🌍 Currently working remotely with an amazing German company called **justDice**.  
