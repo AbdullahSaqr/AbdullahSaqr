@@ -1,7 +1,7 @@
 ## 🎥 My Name Abdullah Mohammed Saqr
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="350" height="250" alt="Animated GIF">
+  <img src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" width="400" height="250" alt="Animated GIF">
 </div>
 
 ✨ *"I bring this energy to all my game projects!"*
