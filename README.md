@@ -2,7 +2,7 @@
 
 ## 🎥 My Name 
 <div align="center">
-  <img src="[https://media.giphy.com/media/f9Rfp3S5r5rV4DsJQL/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXh5cGJ6b3V5bnA2MGt6YW1ldGF4eTgyYjVkYnUzN3RvbHExb2wxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)" width="500" height="200" alt="Abdallah Saqr Animation" />
+  <img src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u" width="500" height="200" alt="Abdallah Saqr Animation" />
 </div>  
 
 ✨ *"I bring this energy to all my game projects!"*
