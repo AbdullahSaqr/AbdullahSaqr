@@ -1,8 +1,10 @@
 ---
 
-## 🎥 My Name 
+## 🎥 My Name Abdullah Mohammed Saqr
 <div align="center">
-  <img src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u" width="500" height="200" alt="Abdallah Saqr Animation" />
+  <iframe src="https://giphy.com/embed/gDPxwdP6SKFnsWDJ2u" width="480" height="269"
+ style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+<a href="https://giphy.com/gifs/typography-bug-feature-gDPxwdP6SKFnsWDJ2u">via GIPHY</a></p>
 </div>  
 
 ✨ *"I bring this energy to all my game projects!"*
